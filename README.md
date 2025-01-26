@@ -1,5 +1,7 @@
 👋 Hello! I'm [Hamza]
+
 🔧 Web Developer | WordPress Expert | Project Manager
+
 🌍 Passionate about crafting efficient solutions and building robust, high-performing applications.
 
 🚀 About Me
