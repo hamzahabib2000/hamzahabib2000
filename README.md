@@ -5,12 +5,17 @@
 🌍 Passionate about crafting efficient solutions and building robust, high-performing applications.
 
 🚀 About Me
+
 I am a results-driven developer and project manager with a proven track record of delivering high-quality web solutions. With expertise in various technologies and a passion for continuous learning, I thrive on solving complex challenges, building scalable systems, and contributing to impactful projects.
 
 🛠️ Technical Expertise
+
 Project Management
+
 Efficiently manage project timelines, priorities, and stakeholder expectations.
+
 Plan, develop, and execute projects with a clear focus on outcomes.
+
 Deliver regular project status updates and adapt to changes effectively.
 Ensure seamless project interventions to achieve desired outputs.
 Core PHP Development
