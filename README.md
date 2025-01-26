@@ -1,4 +1,4 @@
-👋 Hello! I'm Hamza
+👋 Hello! I'm [Hamza]
 🔧 Web Developer | WordPress Expert | Project Manager
 🌍 Passionate about crafting efficient solutions and building robust, high-performing applications.
 
@@ -41,5 +41,6 @@ Dedicated and proactive support throughout the project lifecycle.
 📫 Connect with Me
 Feel free to reach out for collaborations, discussions, or freelance projects!
 📧 Email: [hamzahabib2000@gmail.com]
-🌐 Portfolio: [[Your Portfolio Link](https://www.linkedin.com/in/hamzahabibdev/)]
-💼 LinkedIn: [https://www.linkedin.com/in/hamzahabibdev/]
+🌐 Portfolio: [Portfolio Link(https://www.linkedin.com/in/hamzahabibdev/)]
+💼 LinkedIn: [LinkedIn Profile(https://www.linkedin.com/in/hamzahabibdev/)]
+
